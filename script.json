@@ -4,6 +4,8 @@
     "TELL REVELSTOKE": "Let's tweet @ Revelstoke, here's a tweet that's ready to go: %[Tweet Revelstoke](http://ctt.ec/KObe7)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "I'M HERE FOR THE BOT": "But I really want to tell you about Revelstoke!",
+    "LEARN ABOUT REVELSTOKE": "Test Input %[Go to Revelstokes's website](http:revelstoke.ca)",
+    "ONE RANDOM FACT":
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RevyBot is back."
 }
