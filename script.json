@@ -3,8 +3,6 @@
     "HELLO": "Hey, I'm so glad you decided to talk to me today! Do you want to tell Revelstoke that you're talking to their bot? %[Tell Revelstoke](postback:twitter)",
     "TELL REVELSTOKE": "Let's tweet @ Revelstoke, here's a tweet that's ready to go: %[Tweet Revelstoke](http://ctt.ec/KObe7)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "FOR THE BOT": "So you're just here for the Bot hey\nI was kinda hoping that you wanted to learn something about Revelstoke. \nBut seeing you're here, I can tell you a bit about how I was made. [How were you made](postback:how_were_you_made)"
-    "HOW WERE YOU MADE": "A long time ago, in a galaxy far, far away... \nWow, that sounded cheesier that it seemed when I ran it through my circuits"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RevyBot is back."
 }
