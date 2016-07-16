@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Revelstoke, an awesome resort community in British Columbia.\n![Revelstoke](https://raw.githubusercontent.com/urbanworkbench/EstherBot/img/640px-Revelstoke,_British_Columbia_-_2013.jpg)\nWant to know more about bots or learn about Revelstoke? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Revelstoke](postback:learn_about_revelstoke) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Revelstoke, an awesome resort community in British Columbia.\n[Revelstoke](https://raw.githubusercontent.com/urbanworkbench/EstherBot/img/640px-Revelstoke,_British_Columbia_-_2013.jpg)\nWant to know more about bots or learn about Revelstoke? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Revelstoke](postback:learn_about_revelstoke) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you decided to talk to me today! Do you want to tell Revelstoke that you're talking to their bot? %[Tell Revelstoke](postback:twitter)",
     "TELL REVELSTOKE": "Let's tweet @ Revelstoke, here's a tweet that's ready to go: %[Tweet Revelstoke](http://ctt.ec/KObe7)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
