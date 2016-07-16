@@ -3,6 +3,7 @@
     "HELLO": "Hey, I'm so glad you decided to talk to me today! Do you want to tell Revelstoke that you're talking to their bot? %[Tell Revelstoke](postback:twitter)",
     "TELL REVELSTOKE": "Let's tweet @ Revelstoke, here's a tweet that's ready to go: %[Tweet Revelstoke](http://ctt.ec/KObe7)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HERE FOR THE BOT": "But I really want to tell you about Revelstoke!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RevyBot is back."
 }
